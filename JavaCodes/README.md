@@ -1,6 +1,4 @@
-# CodesWrittenInJava
-# CodesWrittenInJava
-# CodesWrittenInJava
+
 
 [//]: # (echo "# CodesWrittenInJava" >> README.md)
 
@@ -15,6 +13,4 @@
 [//]: # (git remote add origin https://github.com/FahmidurRahmanArnob/CodesWrittenInJava.git)
 
 [//]: # (git push -u origin main)
-# CodesWrittenInJava
 # codes
-#codes
